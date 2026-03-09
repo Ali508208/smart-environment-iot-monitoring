@@ -1,7 +1,11 @@
 # Smart Environment Monitoring System
 
 > A production-ready, full-stack IoT project that simulates and monitors environmental conditions — temperature, humidity, air quality, and light level — with a real-time web dashboard, alert system, and historical data visualisation.
+
+Screen Shots
 <img width="1276" height="896" alt="pic&#39;" src="https://github.com/user-attachments/assets/5115f172-bf2c-4fee-987e-845bd3d9ad05" />
+<img width="1270" height="899" alt="pic2" src="https://github.com/user-attachments/assets/b333bd72-e993-4732-bf9c-6a52f37801ad" />
+<img width="1278" height="533" alt="pic3" src="https://github.com/user-attachments/assets/f5b25ce2-60bc-45ad-87de-30c2c1c55ffa" />
 
 ---
 
